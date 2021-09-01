@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SVCC_JHS_Online_Grade_Monitoring_System"

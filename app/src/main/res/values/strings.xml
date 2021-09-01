@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SVCC Junior HS Online Grade Monitoring App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="id_number">ID Number</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_birthdate">+++++ Enter Birthdate +++++</string>
+    <string-array name="Sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="AccStatus">
+        <item>Enabled</item>
+        <item>Disabled</item>
+    </string-array>
+    <string-array name="Year">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+    </string-array>
+
+</resources>
